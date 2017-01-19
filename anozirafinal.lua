@@ -1,9 +1,9 @@
 --~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--
--- Hey! My name is Xeaxos and I am the creator of Anozira. --
+-- Hey! My name is Yee and I am the creator of Anozira.    --
 -- Before you get to looking at the code, please take a    --
 -- few things into consideration. They will be listed      --
--- below. Thanks, and have a GREAT day!            -Xeaxos --
--- PS: Special thanks to Mikopy and Yee, co-developers!    --
+-- below. Thanks, and have a GREAT day!            -Yee    --
+-- PS: Special thanks to co-developers!                    --
 --~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--
 -- 1. I didn't write everything myself. It took time, but everything is custom enough that I can confidintly say
 -- that I a. only used open source code and b. have edited it enough that I don't feel that it is really copying.
@@ -63,12 +63,12 @@ orange = Color(255,165,0,255);
 
 anoziraspammessages = {}
 anoziraspammessages[1] = "AnoziraScripts FTW"
-anoziraspammessages[2] = "Gee, Xeaxos sure does rock at coding m9!"
+anoziraspammessages[2] = "Gee, Yee sure does rock at coding m9!"
 anoziraspammessages[3] = "KAPPA MEMES KEEPO KAPPA MEMES KEEPO"
 anoziraspammessages[4] = "Insert Shit meme 2016"
 anoziraspammessages[5] = "Dude, if Hitler did nothing wrong..."
 anoziraspammessages[6] = "THIS SERVER IS GETTING FUCKING NULLED M9!"
-anoziraspammessages[7] = "Xeaxos and Mikopy probably could code a dildo.... probably."
+anoziraspammessages[7] = "Yee and Mikopy probably could code a dildo.... probably."
 anoziraspammessages[8] = "HYPE KAPPA MEMES"
 anoziraspammessages[9] = "How can you see into my eyes, like open doors!"
 anoziraspammessages[10] = "Mega.co.nz is famous for it's shitposting on 4chan."
@@ -95,7 +95,7 @@ local function SafeCheck(v)
 end
 
 chat.AddText( cyan, "[Anozira] ", pink, "Initialized!")
-chat.AddText( cyan, "[Anozira] ", pink, "v2 Made by: Xeaxos")
+chat.AddText( cyan, "[Anozira] ", pink, "v2 Made by: Yee")
 chat.AddText( cyan, "[Anozira] ", pink, "To open the menu, type +AnoziraMenu in console!")
 chat.AddText( cyan, "[Anozira] ", pink, "Aimbot: B (Be sure to enable it in hack menu first!)")
 
@@ -144,7 +144,7 @@ MsgC( cyan,[[
 ]])
 MsgC( pink,[[
 [Anozira] Initialized!
-[Anozira] v2 Made by: Xeaxos
+[Anozira] v2 Made by: Yee
 [Anozira] To open the menu, type +AnoziraMenu in console!
 [Anozira] Aimbot: B (Be sure to enable it in hack menu first!
 ]])
